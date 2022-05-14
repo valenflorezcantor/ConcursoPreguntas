@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Concurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Podio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pregunta1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pregunta2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pregunta3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pregunta4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pregunta5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Premio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
